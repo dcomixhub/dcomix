@@ -31,4 +31,3 @@ If you update the server.js/serverlib.js files, you will have to relaunch the se
 If you update the client.js, you will have to rebundle it. To do so, open a console or terminal in the dcomix folder, and type :
 
 `npm bundle` or `browserify ./assets/js/client.js -o ./assets/js/bundle.js`
-=======
